@@ -11,8 +11,7 @@
  [ссылка на герб ЧМ](https://www.433175.ru/uploads/posts/2022-11/1669106853_sostavy-sbornyh-world-cup-2022-qatar.jpg)
  
 
-
-
+## Отлично, спасибо за ссылку)) 
 
 
 
