@@ -15,7 +15,16 @@
 2. Лист 2
 3. Лист 3
 
+
 ## Обрамление кода
+
 ```python
 print(Hello, world) 
 ```
+
+```C
+int main(void){
+    print("Hello, world");
+}
+```
+
