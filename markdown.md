@@ -18,10 +18,11 @@
 
 ## Обрамление кода
 
+Пример на Python
 ```python
 print(Hello, world) 
 ```
-
+Пример на С
 ```C
 int main(void){
     print("Hello, world");
